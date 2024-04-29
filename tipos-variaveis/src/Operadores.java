@@ -25,5 +25,13 @@ public class Operadores {
         System.out.println(numero);
         System.out.println(++numero);
         System.out.println(--numero);
+
+        int a = 5;
+        int b = 5;
+        String resultado = "";
+        
+        resultado = a==b ? "Verdadeiro" : "Falso";//if ternário
+
+        System.out.println(resultado);
     }
 }
