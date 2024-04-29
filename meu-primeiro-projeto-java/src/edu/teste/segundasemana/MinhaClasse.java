@@ -1,4 +1,4 @@
-package edu.emmanuel.segundasemana;
+package edu.teste.segundasemana;
 public class MinhaClasse {
     public static void main(String[] args) {
         /* Classe Principal */
