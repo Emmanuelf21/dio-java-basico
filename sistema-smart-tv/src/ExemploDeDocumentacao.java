@@ -26,6 +26,7 @@ public class ExemploDeDocumentacao {
      * a nível de documentação.
      * Que incrível !!!
      */
+    //jeito errado de comentar
     /*
     * Este método foi elaborado as pressas
     * por isso eu abrevei o nome das variáveis
