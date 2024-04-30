@@ -19,7 +19,13 @@ public class ExemploDeDocumentacao {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
-
+    /** 
+     * Estas duas estrelinhas acima
+     * é para identificar que você
+     * pretende elaborar um comentário
+     * a nível de documentação.
+     * Que incrível !!!
+     */
     /*
     * Este método foi elaborado as pressas
     * por isso eu abrevei o nome das variáveis
